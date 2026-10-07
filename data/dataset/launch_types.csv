@@ -1,0 +1,31 @@
+era,launch_type,titles,variant
+post,independent same-season launches,101,work identity (title + writers)
+post,"joint production (one production, several theatres)",10,work identity (title + writers)
+post,single theatre,1667,work identity (title + writers)
+pre,independent same-season launches,218,work identity (title + writers)
+pre,"joint production (one production, several theatres)",20,work identity (title + writers)
+pre,single theatre,4081,work identity (title + writers)
+post,independent same-season launches,105,title-only identity
+post,"joint production (one production, several theatres)",10,title-only identity
+post,single theatre,1616,title-only identity
+pre,independent same-season launches,222,title-only identity
+pre,"joint production (one production, several theatres)",16,title-only identity
+pre,single theatre,3992,title-only identity
+post,independent same-season launches,68,fixed panel only
+post,"joint production (one production, several theatres)",2,fixed panel only
+post,single theatre,927,fixed panel only
+pre,independent same-season launches,103,fixed panel only
+pre,"joint production (one production, several theatres)",6,fixed panel only
+pre,single theatre,2044,fixed panel only
+post,independent same-season launches,104,without recovered print rows
+post,"joint production (one production, several theatres)",11,without recovered print rows
+post,single theatre,1691,without recovered print rows
+pre,independent same-season launches,198,without recovered print rows
+pre,"joint production (one production, several theatres)",18,without recovered print rows
+pre,single theatre,3712,without recovered print rows
+post,independent same-season launches,80,plays (era-neutral)
+post,"joint production (one production, several theatres)",9,plays (era-neutral)
+post,single theatre,1466,plays (era-neutral)
+pre,independent same-season launches,176,plays (era-neutral)
+pre,"joint production (one production, several theatres)",17,plays (era-neutral)
+pre,single theatre,3521,plays (era-neutral)

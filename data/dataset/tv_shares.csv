@@ -1,0 +1,17 @@
+group,credit_measure,people,matched,with_credit,pct_of_all_selected_lower_bound,pct_of_matched
+all selected,strict,477,196,131,27.5,66.8
+all selected,broad,477,196,151,31.7,77.0
+all selected,source-material credit only (not writing),477,196,24,5.0,12.2
+all selected,producer credit (not writing),477,196,33,6.9,16.8
+AT top-20 playwright,strict,97,62,43,44.3,69.4
+AT top-20 playwright,broad,97,62,53,54.6,85.5
+AT top-20 playwright,source-material credit only (not writing),97,62,13,13.4,21.0
+AT top-20 playwright,producer credit (not writing),97,62,9,9.3,14.5
+Kilroys list,strict,370,129,84,22.7,65.1
+Kilroys list,broad,370,129,94,25.4,72.9
+Kilroys list,source-material credit only (not writing),370,129,9,2.4,7.0
+Kilroys list,producer credit (not writing),370,129,24,6.5,18.6
+Kilroys member,strict,10,5,4,40.0,80.0
+Kilroys member,broad,10,5,4,40.0,80.0
+Kilroys member,source-material credit only (not writing),10,5,2,20.0,40.0
+Kilroys member,producer credit (not writing),10,5,0,0.0,0.0

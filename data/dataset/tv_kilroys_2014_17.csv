@@ -1,0 +1,11 @@
+lists,credit_measure,writers,matched_people,with_tv_writing_credit,pct_of_all_lower_bound,pct_of_matched,note
+2014,strict,41,25,19,46.3,76.0,credit at any date up to the 2026 IMDb snapshot; unmatched writers counted as no credit in the lower bound
+2014,broad,41,25,21,51.2,84.0,credit at any date up to the 2026 IMDb snapshot; unmatched writers counted as no credit in the lower bound
+2015,strict,49,32,26,53.1,81.2,credit at any date up to the 2026 IMDb snapshot; unmatched writers counted as no credit in the lower bound
+2015,broad,49,32,28,57.1,87.5,credit at any date up to the 2026 IMDb snapshot; unmatched writers counted as no credit in the lower bound
+2016,strict,30,16,14,46.7,87.5,credit at any date up to the 2026 IMDb snapshot; unmatched writers counted as no credit in the lower bound
+2016,broad,30,16,15,50.0,93.8,credit at any date up to the 2026 IMDb snapshot; unmatched writers counted as no credit in the lower bound
+2017,strict,34,20,18,52.9,90.0,credit at any date up to the 2026 IMDb snapshot; unmatched writers counted as no credit in the lower bound
+2017,broad,34,20,18,52.9,90.0,credit at any date up to the 2026 IMDb snapshot; unmatched writers counted as no credit in the lower bound
+2014-17 pooled,strict,114,71,59,51.8,83.1,credit at any date up to the 2026 IMDb snapshot; unmatched writers counted as no credit in the lower bound
+2014-17 pooled,broad,114,71,61,53.5,85.9,credit at any date up to the 2026 IMDb snapshot; unmatched writers counted as no credit in the lower bound

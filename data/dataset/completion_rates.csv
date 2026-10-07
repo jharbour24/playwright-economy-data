@@ -1,0 +1,43 @@
+stratum,drawn,checked,status,count,pct,ci95_low,ci95_high
+2019-20 (disrupted),45,45,occurred,17,37.8,25.1,52.4
+2019-20 (disrupted),45,45,curtailed,6,13.3,6.3,26.2
+2019-20 (disrupted),45,45,cancelled,6,13.3,6.3,26.2
+2019-20 (disrupted),45,45,postponed,2,4.4,1.2,14.8
+2019-20 (disrupted),45,45,unverified,14,31.1,19.5,45.7
+2019-20 (disrupted),45,45,not a production,0,0.0,0.0,7.9
+2019-20 (disrupted),45,45,completed share of valid listings: lower bound (verified only),23,51.1,37.0,65.0
+2019-20 (disrupted),45,45,completed share: upper bound (verified + unverified),37,82.2,,
+online 2022-23 to 2025-26,120,23,occurred,17,73.9,53.5,87.5
+online 2022-23 to 2025-26,120,23,curtailed,0,0.0,0.0,14.3
+online 2022-23 to 2025-26,120,23,cancelled,0,0.0,0.0,14.3
+online 2022-23 to 2025-26,120,23,postponed,0,0.0,0.0,14.3
+online 2022-23 to 2025-26,120,23,unverified,4,17.4,7.0,37.1
+online 2022-23 to 2025-26,120,23,not a production,2,8.7,2.4,26.8
+online 2022-23 to 2025-26,120,23,completed share of valid listings: lower bound (verified only),17,81.0,60.0,92.3
+online 2022-23 to 2025-26,120,23,completed share: upper bound (verified + unverified),21,100.0,,
+print 2010-11 to 2018-19,135,135,occurred,83,61.5,53.1,69.3
+print 2010-11 to 2018-19,135,135,curtailed,0,0.0,0.0,2.8
+print 2010-11 to 2018-19,135,135,cancelled,1,0.7,0.1,4.1
+print 2010-11 to 2018-19,135,135,postponed,1,0.7,0.1,4.1
+print 2010-11 to 2018-19,135,135,unverified,43,31.9,24.6,40.1
+print 2010-11 to 2018-19,135,135,not a production,7,5.2,2.5,10.3
+print 2010-11 to 2018-19,135,135,completed share of valid listings: lower bound (verified only),83,64.8,56.2,72.6
+print 2010-11 to 2018-19,135,135,completed share: upper bound (verified + unverified),126,98.4,,
+2019-20: run scheduled into Mar-Jul 2020,17,17,occurred,1,5.9,1.0,27.0
+2019-20: run scheduled into Mar-Jul 2020,17,17,curtailed,6,35.3,17.3,58.7
+2019-20: run scheduled into Mar-Jul 2020,17,17,cancelled,4,23.5,9.6,47.3
+2019-20: run scheduled into Mar-Jul 2020,17,17,postponed,1,5.9,1.0,27.0
+2019-20: run scheduled into Mar-Jul 2020,17,17,unverified,5,29.4,13.3,53.1
+2019-20: run scheduled into Mar-Jul 2020,17,17,not a production,0,0.0,0.0,18.4
+2019-20: run ending before Mar 2020,21,21,occurred,14,66.7,45.4,82.8
+2019-20: run ending before Mar 2020,21,21,curtailed,0,0.0,0.0,15.5
+2019-20: run ending before Mar 2020,21,21,cancelled,0,0.0,0.0,15.5
+2019-20: run ending before Mar 2020,21,21,postponed,0,0.0,0.0,15.5
+2019-20: run ending before Mar 2020,21,21,unverified,7,33.3,17.2,54.6
+2019-20: run ending before Mar 2020,21,21,not a production,0,0.0,0.0,15.5
+2019-20: undated listing,7,7,occurred,2,28.6,8.2,64.1
+2019-20: undated listing,7,7,curtailed,0,0.0,0.0,35.4
+2019-20: undated listing,7,7,cancelled,2,28.6,8.2,64.1
+2019-20: undated listing,7,7,postponed,1,14.3,2.6,51.3
+2019-20: undated listing,7,7,unverified,2,28.6,8.2,64.1
+2019-20: undated listing,7,7,not a production,0,0.0,0.0,35.4

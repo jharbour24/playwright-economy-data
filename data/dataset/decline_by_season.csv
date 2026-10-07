@@ -1,0 +1,225 @@
+start,productions,with_usable_credit,missing_or_unresolved,missing_pct,distinct_works,distinct_lead_writers,distinct_relevant_writers,universe
+2010,1801,1614.0,187.0,10.4,1373.0,914.0,1225.0,full sample (classics included)
+2011,1730,1588.0,142.0,8.2,1286.0,847.0,1191.0,full sample (classics included)
+2012,1825,1653.0,172.0,9.4,1389.0,942.0,1285.0,full sample (classics included)
+2013,1862,1697.0,165.0,8.9,1427.0,966.0,1295.0,full sample (classics included)
+2014,1901,1732.0,169.0,8.9,1466.0,977.0,1274.0,full sample (classics included)
+2015,1921,1739.0,182.0,9.5,1451.0,964.0,1272.0,full sample (classics included)
+2016,2074,1915.0,159.0,7.7,1599.0,1088.0,1485.0,full sample (classics included)
+2017,1967,1830.0,137.0,7.0,1493.0,1034.0,1399.0,full sample (classics included)
+2018,1998,1868.0,130.0,6.5,1471.0,1036.0,1451.0,full sample (classics included)
+2019,1975,1869.0,106.0,5.4,1445.0,1042.0,1418.0,full sample (classics included)
+2022,1325,1232.0,93.0,7.0,1026.0,737.0,963.0,full sample (classics included)
+2023,1658,1531.0,127.0,7.7,1199.0,868.0,1138.0,full sample (classics included)
+2024,1323,1253.0,70.0,5.3,961.0,726.0,965.0,full sample (classics included)
+2025,1461,1369.0,92.0,6.3,1084.0,789.0,1042.0,full sample (classics included)
+2010,1540,1363.0,177.0,11.5,1220.0,839.0,1131.0,contemporary
+2011,1482,1342.0,140.0,9.4,1145.0,778.0,1100.0,contemporary
+2012,1578,1413.0,165.0,10.5,1249.0,864.0,1186.0,contemporary
+2013,1642,1481.0,161.0,9.8,1294.0,907.0,1222.0,contemporary
+2014,1661,1497.0,164.0,9.9,1325.0,897.0,1172.0,contemporary
+2015,1695,1522.0,173.0,10.2,1310.0,895.0,1186.0,contemporary
+2016,1850,1696.0,154.0,8.3,1456.0,1014.0,1401.0,contemporary
+2017,1735,1603.0,132.0,7.6,1353.0,963.0,1306.0,contemporary
+2018,1806,1680.0,126.0,7.0,1349.0,963.0,1352.0,contemporary
+2019,1780,1679.0,101.0,5.7,1320.0,974.0,1334.0,contemporary
+2022,1187,1094.0,93.0,7.8,944.0,695.0,908.0,contemporary
+2023,1491,1372.0,119.0,8.0,1103.0,818.0,1072.0,contemporary
+2024,1171,1105.0,66.0,5.6,876.0,687.0,911.0,contemporary
+2025,1308,1221.0,87.0,6.7,982.0,744.0,979.0,contemporary
+2010,370,365.0,5.0,1.4,198.0,154.0,174.0,straight plays (confirmed; NOT comparable across eras)
+2011,392,388.0,4.0,1.0,201.0,160.0,188.0,straight plays (confirmed; NOT comparable across eras)
+2012,404,399.0,5.0,1.2,229.0,178.0,192.0,straight plays (confirmed; NOT comparable across eras)
+2013,436,426.0,10.0,2.3,232.0,173.0,188.0,straight plays (confirmed; NOT comparable across eras)
+2014,470,461.0,9.0,1.9,271.0,202.0,220.0,straight plays (confirmed; NOT comparable across eras)
+2015,497,483.0,14.0,2.8,280.0,210.0,226.0,straight plays (confirmed; NOT comparable across eras)
+2016,531,528.0,3.0,0.6,314.0,225.0,240.0,straight plays (confirmed; NOT comparable across eras)
+2017,551,543.0,8.0,1.5,313.0,234.0,261.0,straight plays (confirmed; NOT comparable across eras)
+2018,610,604.0,6.0,1.0,320.0,237.0,261.0,straight plays (confirmed; NOT comparable across eras)
+2019,640,636.0,4.0,0.6,346.0,250.0,273.0,straight plays (confirmed; NOT comparable across eras)
+2022,680,643.0,37.0,5.4,503.0,373.0,423.0,straight plays (confirmed; NOT comparable across eras)
+2023,896,850.0,46.0,5.1,634.0,491.0,546.0,straight plays (confirmed; NOT comparable across eras)
+2024,684,663.0,21.0,3.1,480.0,378.0,427.0,straight plays (confirmed; NOT comparable across eras)
+2025,763,737.0,26.0,3.4,534.0,427.0,482.0,straight plays (confirmed; NOT comparable across eras)
+2010,1289,1126.0,163.0,12.6,1033.0,687.0,826.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2011,1199,1064.0,135.0,11.3,948.0,633.0,772.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2012,1313,1157.0,156.0,11.9,1064.0,723.0,848.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2013,1367,1215.0,152.0,11.1,1086.0,749.0,885.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2014,1389,1232.0,157.0,11.3,1130.0,746.0,851.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2015,1370,1209.0,161.0,11.8,1089.0,738.0,844.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2016,1470,1327.0,143.0,9.7,1184.0,810.0,965.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2017,1396,1279.0,117.0,8.4,1105.0,773.0,884.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2018,1417,1299.0,118.0,8.3,1091.0,749.0,874.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2019,1342,1247.0,95.0,7.1,1031.0,739.0,841.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2022,959,881.0,78.0,8.1,784.0,573.0,679.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2023,1158,1058.0,100.0,8.6,892.0,652.0,744.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2024,921,863.0,58.0,6.3,702.0,542.0,632.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2025,1042,965.0,77.0,7.4,806.0,609.0,708.0,"plays, era-neutral (contemporary, no musical evidence available in both eras)"
+2010,666,613.0,53.0,8.0,561.0,418.0,553.0,panel: contemporary
+2011,721,665.0,56.0,7.8,581.0,436.0,588.0,panel: contemporary
+2012,695,646.0,49.0,7.1,562.0,426.0,578.0,panel: contemporary
+2013,699,647.0,52.0,7.4,581.0,437.0,581.0,panel: contemporary
+2014,721,668.0,53.0,7.4,618.0,465.0,600.0,panel: contemporary
+2015,741,686.0,55.0,7.4,599.0,459.0,619.0,panel: contemporary
+2016,836,779.0,57.0,6.8,719.0,546.0,744.0,panel: contemporary
+2017,785,749.0,36.0,4.6,651.0,530.0,724.0,panel: contemporary
+2018,842,789.0,53.0,6.3,675.0,510.0,732.0,panel: contemporary
+2019,737,694.0,43.0,5.8,590.0,451.0,623.0,panel: contemporary
+2022,583,534.0,49.0,8.4,499.0,380.0,487.0,panel: contemporary
+2023,673,624.0,49.0,7.3,533.0,412.0,525.0,panel: contemporary
+2024,606,569.0,37.0,6.1,480.0,376.0,505.0,panel: contemporary
+2025,610,573.0,37.0,6.1,483.0,392.0,519.0,panel: contemporary
+2010,182,179.0,3.0,1.6,123.0,95.0,104.0,panel: straight plays (confirmed; NOT comparable)
+2011,206,204.0,2.0,1.0,126.0,103.0,118.0,panel: straight plays (confirmed; NOT comparable)
+2012,219,216.0,3.0,1.4,142.0,117.0,126.0,panel: straight plays (confirmed; NOT comparable)
+2013,213,206.0,7.0,3.3,142.0,113.0,122.0,panel: straight plays (confirmed; NOT comparable)
+2014,239,233.0,6.0,2.5,170.0,136.0,148.0,panel: straight plays (confirmed; NOT comparable)
+2015,253,248.0,5.0,2.0,171.0,145.0,157.0,panel: straight plays (confirmed; NOT comparable)
+2016,258,256.0,2.0,0.8,187.0,148.0,157.0,panel: straight plays (confirmed; NOT comparable)
+2017,265,262.0,3.0,1.1,176.0,149.0,167.0,panel: straight plays (confirmed; NOT comparable)
+2018,309,305.0,4.0,1.3,197.0,151.0,172.0,panel: straight plays (confirmed; NOT comparable)
+2019,292,291.0,1.0,0.3,193.0,149.0,167.0,panel: straight plays (confirmed; NOT comparable)
+2022,345,329.0,16.0,4.6,283.0,216.0,242.0,panel: straight plays (confirmed; NOT comparable)
+2023,419,395.0,24.0,5.7,321.0,254.0,280.0,panel: straight plays (confirmed; NOT comparable)
+2024,374,363.0,11.0,2.9,278.0,225.0,244.0,panel: straight plays (confirmed; NOT comparable)
+2025,372,357.0,15.0,4.0,280.0,235.0,260.0,panel: straight plays (confirmed; NOT comparable)
+2010,554,508.0,46.0,8.3,469.0,339.0,390.0,"panel: plays, era-neutral"
+2011,577,524.0,53.0,9.2,477.0,351.0,412.0,"panel: plays, era-neutral"
+2012,555,512.0,43.0,7.7,464.0,352.0,394.0,"panel: plays, era-neutral"
+2013,567,517.0,50.0,8.8,471.0,350.0,395.0,"panel: plays, era-neutral"
+2014,596,545.0,51.0,8.6,518.0,380.0,432.0,"panel: plays, era-neutral"
+2015,577,525.0,52.0,9.0,477.0,362.0,421.0,"panel: plays, era-neutral"
+2016,653,599.0,54.0,8.3,567.0,429.0,494.0,"panel: plays, era-neutral"
+2017,617,583.0,34.0,5.5,513.0,413.0,459.0,"panel: plays, era-neutral"
+2018,649,597.0,52.0,8.0,526.0,384.0,442.0,"panel: plays, era-neutral"
+2019,559,520.0,39.0,7.0,457.0,344.0,399.0,"panel: plays, era-neutral"
+2022,477,436.0,41.0,8.6,414.0,310.0,363.0,"panel: plays, era-neutral"
+2023,528,484.0,44.0,8.3,427.0,323.0,361.0,"panel: plays, era-neutral"
+2024,488,457.0,31.0,6.4,385.0,300.0,347.0,"panel: plays, era-neutral"
+2025,490,459.0,31.0,6.3,396.0,320.0,373.0,"panel: plays, era-neutral"
+2010,1540,1363.0,177.0,11.5,1210.0,839.0,1131.0,"sensitivity: contemporary, title-only identity"
+2011,1482,1342.0,140.0,9.4,1142.0,778.0,1100.0,"sensitivity: contemporary, title-only identity"
+2012,1578,1413.0,165.0,10.5,1251.0,864.0,1186.0,"sensitivity: contemporary, title-only identity"
+2013,1642,1481.0,161.0,9.8,1293.0,907.0,1222.0,"sensitivity: contemporary, title-only identity"
+2014,1661,1497.0,164.0,9.9,1330.0,897.0,1172.0,"sensitivity: contemporary, title-only identity"
+2015,1695,1522.0,173.0,10.2,1292.0,895.0,1186.0,"sensitivity: contemporary, title-only identity"
+2016,1850,1696.0,154.0,8.3,1437.0,1014.0,1401.0,"sensitivity: contemporary, title-only identity"
+2017,1735,1603.0,132.0,7.6,1338.0,963.0,1306.0,"sensitivity: contemporary, title-only identity"
+2018,1806,1680.0,126.0,7.0,1343.0,963.0,1352.0,"sensitivity: contemporary, title-only identity"
+2019,1780,1679.0,101.0,5.7,1301.0,974.0,1334.0,"sensitivity: contemporary, title-only identity"
+2022,1187,1094.0,93.0,7.8,933.0,695.0,908.0,"sensitivity: contemporary, title-only identity"
+2023,1491,1372.0,119.0,8.0,1092.0,818.0,1072.0,"sensitivity: contemporary, title-only identity"
+2024,1171,1105.0,66.0,5.6,870.0,687.0,911.0,"sensitivity: contemporary, title-only identity"
+2025,1308,1221.0,87.0,6.7,969.0,744.0,979.0,"sensitivity: contemporary, title-only identity"
+2010,1292,1129.0,163.0,12.6,1034.0,687.0,832.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2011,1199,1064.0,135.0,11.3,949.0,632.0,775.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2012,1316,1159.0,157.0,11.9,1065.0,721.0,850.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2013,1374,1221.0,153.0,11.1,1090.0,751.0,886.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2014,1405,1248.0,157.0,11.2,1134.0,747.0,854.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2015,1386,1223.0,163.0,11.8,1094.0,740.0,847.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2016,1497,1354.0,143.0,9.6,1192.0,815.0,979.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2017,1414,1298.0,116.0,8.2,1112.0,780.0,894.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2018,1457,1339.0,118.0,8.1,1100.0,758.0,895.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2019,1380,1287.0,93.0,6.7,1034.0,743.0,854.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2022,948,871.0,77.0,8.1,764.0,555.0,648.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2023,1120,1034.0,86.0,7.7,843.0,624.0,707.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2024,887,831.0,56.0,6.3,668.0,513.0,593.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2025,1002,934.0,68.0,6.8,763.0,581.0,667.0,sensitivity: contemporary plays incl. uncertain (not confirmed musicals)
+2010,248,234.0,14.0,5.6,186.0,178.0,337.0,sensitivity: contemporary musicals (confirmed)
+2011,283,278.0,5.0,1.8,196.0,170.0,357.0,sensitivity: contemporary musicals (confirmed)
+2012,262,254.0,8.0,3.1,184.0,168.0,372.0,sensitivity: contemporary musicals (confirmed)
+2013,268,260.0,8.0,3.0,204.0,185.0,368.0,sensitivity: contemporary musicals (confirmed)
+2014,256,249.0,7.0,2.7,191.0,171.0,347.0,sensitivity: contemporary musicals (confirmed)
+2015,309,299.0,10.0,3.2,216.0,191.0,385.0,sensitivity: contemporary musicals (confirmed)
+2016,353,342.0,11.0,3.1,264.0,230.0,470.0,sensitivity: contemporary musicals (confirmed)
+2017,321,305.0,16.0,5.0,241.0,220.0,466.0,sensitivity: contemporary musicals (confirmed)
+2018,349,341.0,8.0,2.3,249.0,229.0,495.0,sensitivity: contemporary musicals (confirmed)
+2019,400,392.0,8.0,2.0,286.0,260.0,528.0,sensitivity: contemporary musicals (confirmed)
+2022,239,223.0,16.0,6.7,180.0,156.0,279.0,sensitivity: contemporary musicals (confirmed)
+2023,371,338.0,33.0,8.9,260.0,219.0,395.0,sensitivity: contemporary musicals (confirmed)
+2024,284,274.0,10.0,3.5,208.0,189.0,338.0,sensitivity: contemporary musicals (confirmed)
+2025,306,287.0,19.0,6.2,219.0,184.0,334.0,sensitivity: contemporary musicals (confirmed)
+2010,313,284.0,29.0,9.3,281.0,223.0,302.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2011,322,292.0,30.0,9.3,272.0,215.0,289.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2012,342,320.0,22.0,6.4,298.0,241.0,334.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2013,337,317.0,20.0,5.9,305.0,255.0,332.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2014,352,333.0,19.0,5.4,318.0,265.0,340.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2015,402,367.0,35.0,8.7,347.0,276.0,356.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2016,429,400.0,29.0,6.8,391.0,313.0,421.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2017,429,406.0,23.0,5.4,382.0,324.0,453.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2018,439,411.0,28.0,6.4,382.0,311.0,459.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2019,399,382.0,17.0,4.3,346.0,297.0,409.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2022,329,299.0,30.0,9.1,300.0,238.0,313.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2023,367,340.0,27.0,7.4,310.0,253.0,322.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2024,344,322.0,22.0,6.4,279.0,238.0,306.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2025,358,334.0,24.0,6.7,311.0,264.0,359.0,strict panel: listed every season 2015-19 and 2022-25 (contemporary)
+2010,226,204.0,22.0,9.7,209.0,165.0,228.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2011,237,219.0,18.0,7.6,202.0,162.0,222.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2012,226,210.0,16.0,7.1,197.0,160.0,219.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2013,224,214.0,10.0,4.5,200.0,172.0,232.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2014,243,234.0,9.0,3.7,218.0,190.0,241.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2015,252,234.0,18.0,7.1,227.0,192.0,241.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2016,260,245.0,15.0,5.8,238.0,197.0,279.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2017,271,260.0,11.0,4.1,244.0,216.0,308.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2018,277,264.0,13.0,4.7,248.0,213.0,317.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2019,268,261.0,7.0,2.6,243.0,215.0,304.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2022,201,189.0,12.0,6.0,188.0,159.0,205.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2023,239,225.0,14.0,5.9,204.0,170.0,221.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2024,226,207.0,19.0,8.4,187.0,157.0,208.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2025,228,211.0,17.0,7.5,201.0,172.0,245.0,strict panel: listed every season 2010-19 and 2022-25 (contemporary)
+2010,1426,1260.0,166.0,11.6,1134.0,786.0,1052.0,sensitivity: contemporary without recovered print rows
+2011,1360,1235.0,125.0,9.2,1055.0,728.0,1031.0,sensitivity: contemporary without recovered print rows
+2012,1422,1269.0,153.0,10.8,1139.0,791.0,1076.0,sensitivity: contemporary without recovered print rows
+2013,1449,1299.0,150.0,10.4,1149.0,808.0,1081.0,sensitivity: contemporary without recovered print rows
+2014,1494,1340.0,154.0,10.3,1198.0,813.0,1065.0,sensitivity: contemporary without recovered print rows
+2015,1574,1405.0,169.0,10.7,1226.0,835.0,1106.0,sensitivity: contemporary without recovered print rows
+2016,1725,1578.0,147.0,8.5,1361.0,943.0,1311.0,sensitivity: contemporary without recovered print rows
+2017,1439,1310.0,129.0,9.0,1137.0,814.0,1110.0,sensitivity: contemporary without recovered print rows
+2018,1605,1487.0,118.0,7.4,1203.0,862.0,1210.0,sensitivity: contemporary without recovered print rows
+2019,1593,1496.0,97.0,6.1,1196.0,877.0,1194.0,sensitivity: contemporary without recovered print rows
+2022,1187,1094.0,93.0,7.8,944.0,695.0,908.0,sensitivity: contemporary without recovered print rows
+2023,1491,1372.0,119.0,8.0,1103.0,818.0,1072.0,sensitivity: contemporary without recovered print rows
+2024,1171,1105.0,66.0,5.6,876.0,687.0,911.0,sensitivity: contemporary without recovered print rows
+2025,1308,1221.0,87.0,6.7,982.0,744.0,979.0,sensitivity: contemporary without recovered print rows
+2010,620,569.0,51.0,8.2,522.0,392.0,511.0,sensitivity: panel contemporary without recovered print rows
+2011,657,610.0,47.0,7.2,528.0,403.0,547.0,sensitivity: panel contemporary without recovered print rows
+2012,626,581.0,45.0,7.2,513.0,393.0,529.0,sensitivity: panel contemporary without recovered print rows
+2013,607,558.0,49.0,8.1,514.0,389.0,516.0,sensitivity: panel contemporary without recovered print rows
+2014,643,593.0,50.0,7.8,553.0,415.0,537.0,sensitivity: panel contemporary without recovered print rows
+2015,687,634.0,53.0,7.7,554.0,428.0,579.0,sensitivity: panel contemporary without recovered print rows
+2016,779,725.0,54.0,6.9,671.0,510.0,695.0,sensitivity: panel contemporary without recovered print rows
+2017,641,605.0,36.0,5.6,537.0,434.0,604.0,sensitivity: panel contemporary without recovered print rows
+2018,741,693.0,48.0,6.5,587.0,451.0,650.0,sensitivity: panel contemporary without recovered print rows
+2019,657,617.0,40.0,6.1,533.0,406.0,563.0,sensitivity: panel contemporary without recovered print rows
+2022,583,534.0,49.0,8.4,499.0,380.0,487.0,sensitivity: panel contemporary without recovered print rows
+2023,673,624.0,49.0,7.3,533.0,412.0,525.0,sensitivity: panel contemporary without recovered print rows
+2024,606,569.0,37.0,6.1,480.0,376.0,505.0,sensitivity: panel contemporary without recovered print rows
+2025,610,573.0,37.0,6.1,483.0,392.0,519.0,sensitivity: panel contemporary without recovered print rows
+2010,1540,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2011,1482,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2012,1578,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2013,1642,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2014,1661,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2015,1695,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2016,1850,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2017,1735,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2018,1806,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2019,1591,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2022,1187,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2023,1491,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2024,1171,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2025,1308,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (low non-completion 10.6% of 2019-20)"
+2010,1540,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2011,1482,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2012,1578,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2013,1642,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2014,1661,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2015,1695,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2016,1850,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2017,1735,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2018,1806,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2019,1402,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2022,1187,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2023,1491,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2024,1171,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"
+2025,1308,,,,,,,"sensitivity: contemporary, 2019-20 completion-adjusted (high non-completion 21.2% of 2019-20)"

@@ -1,0 +1,11 @@
+group,period,theatres_total,theatres_listed_per_season,productions_per_season,productions_per_listed_theatre
+after,pre,116,0.0,0.0,0.0
+after,post,116,52.5,148.5,2.83
+before,pre,179,77.0,313.8,4.08
+before,post,179,0.0,0.0,0.0
+before (unresolved identity),pre,9,1.8,9.0,5.0
+before (unresolved identity),post,9,0.0,0.0,0.0
+both,pre,377,279.2,1442.0,5.16
+both,post,377,270.0,1138.5,4.22
+both (unresolved identity),pre,2,1.8,8.4,4.67
+both (unresolved identity),post,2,1.0,2.2,2.25

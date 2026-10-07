@@ -1,0 +1,16 @@
+variant,era,cohort,titles,events_total,censored_total,same_theatre_return_pct,multi_theatre_launch_pct,reach_by_2,reach_by_3,reach_by_5
+work identity (title + writers),post,newly observed,1778,239,1539,2.7,6.2,"13.7 (12.1-15.5), at risk 1146","17.2 (15.1-19.6), at risk 488",not observed
+work identity (title + writers),post,confirmed world premiere (listing),84,12,72,1.2,4.8,"12.7 (6.9-22.6), at risk 45","23.6 (11.9-43.7), at risk 16",not observed
+work identity (title + writers),pre,newly observed,4319,695,3624,3.6,5.5,"14.4 (13.4-15.6), at risk 3161","17.1 (15.9-18.4), at risk 2267","20.2 (18.8-21.8), at risk 701"
+title-only identity,post,newly observed,1731,231,1500,2.8,6.6,"13.5 (11.8-15.3), at risk 1112","17.5 (15.3-20.0), at risk 472",not observed
+title-only identity,post,confirmed world premiere (listing),80,11,69,1.2,6.2,"11.3 (6.0-20.5), at risk 42","22.3 (10.8-42.9), at risk 16",not observed
+title-only identity,pre,newly observed,4230,686,3544,3.4,5.6,"14.5 (13.4-15.6), at risk 3081","17.2 (16.0-18.5), at risk 2213","20.3 (18.9-21.9), at risk 709"
+fixed panel only,post,newly observed,997,134,863,2.1,7.0,"13.9 (11.7-16.4), at risk 609","17.6 (14.8-20.9), at risk 278",not observed
+fixed panel only,post,confirmed world premiere (listing),56,7,49,0.0,3.6,"14.8 (7.1-29.3), at risk 31","14.8 (7.1-29.3), at risk 6",not observed
+fixed panel only,pre,newly observed,2153,344,1809,3.5,5.1,"13.9 (12.4-15.5), at risk 1549","16.7 (15.1-18.6), at risk 1106","21.1 (18.9-23.5), at risk 331"
+without recovered print rows,post,newly observed,1806,246,1560,2.7,6.4,"13.9 (12.3-15.7), at risk 1167","17.4 (15.3-19.7), at risk 497",not observed
+without recovered print rows,post,confirmed world premiere (listing),85,12,73,1.2,4.7,"12.5 (6.9-22.3), at risk 46","22.8 (11.6-42.1), at risk 17",not observed
+without recovered print rows,pre,newly observed,3928,628,3300,3.3,5.5,"14.1 (13.0-15.3), at risk 2882","17.0 (15.8-18.3), at risk 2123","20.1 (18.5-21.7), at risk 642"
+plays (era-neutral),post,newly observed,1555,198,1357,2.4,5.7,"12.8 (11.1-14.7), at risk 1012","16.1 (13.9-18.5), at risk 451",not observed
+plays (era-neutral),post,confirmed world premiere (listing),71,12,59,1.4,5.6,"15.1 (8.3-26.6), at risk 36","26.4 (13.7-47.1), at risk 15",not observed
+plays (era-neutral),pre,newly observed,3714,548,3166,3.5,5.2,"13.7 (12.6-14.9), at risk 2744","15.7 (14.5-17.1), at risk 1976","18.0 (16.6-19.6), at risk 641"

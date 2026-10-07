@@ -1,0 +1,12 @@
+k,writers,observed,in_gap_season,mean_productions,balanced_window_mean_productions,balanced_window_writers_observed,balanced_window_writers,first_credit
+-5,93,77,0,1.234,,,22,year of first strict TV writing credit (episode year)
+-4,93,84,0,0.869,,,22,year of first strict TV writing credit (episode year)
+-3,93,78,7,0.859,1.045,22.0,22,year of first strict TV writing credit (episode year)
+-2,93,75,18,1.147,1.591,22.0,22,year of first strict TV writing credit (episode year)
+-1,93,72,21,1.514,2.227,22.0,22,year of first strict TV writing credit (episode year)
+0,93,75,18,1.587,1.727,22.0,22,year of first strict TV writing credit (episode year)
+1,93,68,25,1.529,1.864,22.0,22,year of first strict TV writing credit (episode year)
+2,93,71,22,1.394,1.636,22.0,22,year of first strict TV writing credit (episode year)
+3,93,76,10,1.658,1.636,22.0,22,year of first strict TV writing credit (episode year)
+4,93,62,13,1.613,,,22,year of first strict TV writing credit (episode year)
+5,93,51,14,1.765,,,22,year of first strict TV writing credit (episode year)

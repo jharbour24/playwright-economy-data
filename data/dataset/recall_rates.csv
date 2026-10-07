@@ -1,0 +1,7 @@
+extraction,columns,eligible_entries,recovered,recall_pct,ci95_low,ci95_high,false_rows,extracted_rows,false_row_pct
+original (at_v2_reextract),tune,240,198,82.5,77.2,86.8,0,219,0.0
+original (at_v2_reextract),holdout,168,139,82.7,76.3,87.7,6,152,3.9
+original (at_v2_reextract),all,408,337,82.6,78.6,86.0,6,371,1.6
+revision 1 (r1_print_reextract),tune,240,223,92.9,89.0,95.5,1,246,0.4
+revision 1 (r1_print_reextract),holdout,168,156,92.9,87.9,95.9,1,164,0.6
+revision 1 (r1_print_reextract),all,408,379,92.9,90.0,95.0,2,410,0.5

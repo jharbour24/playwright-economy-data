@@ -1,0 +1,25 @@
+royalty_rate,co_writers,completion,period,writers_per_season,pct_one_production,median_royalty,p90_royalty,writers_over_10000_per_season,writers_over_25000_per_season,writers_over_40000_per_season,dollars,box_office_basis_share_theatre_990
+0.05,lead writer only,announced,2015-16 to 2019-20,962,73.0,5900.0,30800.0,292.0,116.0,65.0,2024,0.267
+0.05,lead writer only,announced,2022-23 to 2025-26,736,74.0,5900.0,29500.0,224.8,82.5,42.2,2024,0.267
+0.05,lead writer only,completion-adjusted 2019-20,2015-16 to 2019-20,962,73.0,5900.0,29200.0,280.8,109.6,60.8,2024,0.267
+0.05,lead writer only,completion-adjusted 2019-20,2022-23 to 2025-26,736,74.0,5900.0,29500.0,224.8,82.5,42.2,2024,0.267
+0.05,split among credited writers,announced,2015-16 to 2019-20,1316,72.9,5900.0,21600.0,284.8,109.6,57.2,2024,0.267
+0.05,split among credited writers,announced,2022-23 to 2025-26,968,72.3,5900.0,21100.0,221.8,78.2,39.5,2024,0.267
+0.05,split among credited writers,completion-adjusted 2019-20,2015-16 to 2019-20,1316,72.9,5900.0,20500.0,271.4,104.0,53.4,2024,0.267
+0.05,split among credited writers,completion-adjusted 2019-20,2022-23 to 2025-26,968,72.3,5900.0,21100.0,221.8,78.2,39.5,2024,0.267
+0.06,lead writer only,announced,2015-16 to 2019-20,962,73.0,7100.0,37000.0,311.6,140.6,88.6,2024,0.267
+0.06,lead writer only,announced,2022-23 to 2025-26,736,74.0,7100.0,35300.0,236.5,104.8,64.0,2024,0.267
+0.06,lead writer only,completion-adjusted 2019-20,2015-16 to 2019-20,962,73.0,7100.0,35100.0,299.8,134.2,83.0,2024,0.267
+0.06,lead writer only,completion-adjusted 2019-20,2022-23 to 2025-26,736,74.0,7100.0,35300.0,236.5,104.8,64.0,2024,0.267
+0.06,split among credited writers,announced,2015-16 to 2019-20,1316,72.9,7100.0,25900.0,316.2,136.6,80.4,2024,0.267
+0.06,split among credited writers,announced,2022-23 to 2025-26,968,72.3,7100.0,25300.0,248.2,97.5,56.2,2024,0.267
+0.06,split among credited writers,completion-adjusted 2019-20,2015-16 to 2019-20,1316,72.9,7100.0,24600.0,301.8,130.2,74.8,2024,0.267
+0.06,split among credited writers,completion-adjusted 2019-20,2022-23 to 2025-26,968,72.3,7100.0,25300.0,248.2,97.5,56.2,2024,0.267
+0.08,lead writer only,announced,2015-16 to 2019-20,962,73.0,9400.0,49400.0,333.2,188.4,116.0,2024,0.267
+0.08,lead writer only,announced,2022-23 to 2025-26,736,74.0,9400.0,47100.0,247.5,144.2,82.5,2024,0.267
+0.08,lead writer only,completion-adjusted 2019-20,2015-16 to 2019-20,962,73.0,9400.0,46800.0,328.6,180.0,109.6,2024,0.267
+0.08,lead writer only,completion-adjusted 2019-20,2022-23 to 2025-26,736,74.0,9400.0,47100.0,247.5,144.2,82.5,2024,0.267
+0.08,split among credited writers,announced,2015-16 to 2019-20,1316,72.9,9400.0,34600.0,357.4,181.6,109.6,2024,0.267
+0.08,split among credited writers,announced,2022-23 to 2025-26,968,72.3,9400.0,33700.0,272.2,137.8,78.2,2024,0.267
+0.08,split among credited writers,completion-adjusted 2019-20,2015-16 to 2019-20,1316,72.9,9400.0,32800.0,350.6,173.8,104.0,2024,0.267
+0.08,split among credited writers,completion-adjusted 2019-20,2022-23 to 2025-26,968,72.3,9400.0,33700.0,272.2,137.8,78.2,2024,0.267

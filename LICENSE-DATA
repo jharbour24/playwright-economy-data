@@ -1,0 +1,16 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Jared Harbour
+
+The summary tables in data/ and the documentation files (README.md, DATA_DICTIONARY.md) are licensed under the
+Creative Commons Attribution 4.0 International License.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You may share and adapt this material for any purpose, including commercially, provided you give appropriate credit
+(see CITATION.cff), link to the license, and indicate if changes were made.
+
+The license covers the author's compilation and estimates. The tables are aggregates computed from third-party sources
+(American Theatre magazine season listings, Theatre Communications Group Theatre Facts, IRS Form 990 filings via
+ProPublica, the Broadway League, licensor catalogues, the Writers Guild, IMDb); none of those sources' own listings,
+text, pages or row-level records are included in this repository or licensed here.

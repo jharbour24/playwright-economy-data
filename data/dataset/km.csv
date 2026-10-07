@@ -1,0 +1,56 @@
+t,at_risk,events,censored,reach_pct,ci95_low,ci95_high,variant,era,cohort,cohort_size
+1,1778,160,472,9.0,7.8,10.4,work identity (title + writers),post,newly observed,1778
+2,1146,59,599,13.7,12.1,15.5,work identity (title + writers),post,newly observed,1778
+3,488,20,468,17.2,15.1,19.6,work identity (title + writers),post,newly observed,1778
+1,84,9,30,10.7,5.7,19.6,work identity (title + writers),post,confirmed world premiere (listing),84
+2,45,1,28,12.7,6.9,22.6,work identity (title + writers),post,confirmed world premiere (listing),84
+3,16,2,14,23.6,11.9,43.7,work identity (title + writers),post,confirmed world premiere (listing),84
+1,4319,393,765,9.1,8.3,10.0,work identity (title + writers),pre,newly observed,4319
+2,3161,185,709,14.4,13.4,15.6,work identity (title + writers),pre,newly observed,4319
+3,2267,71,771,17.1,15.9,18.4,work identity (title + writers),pre,newly observed,4319
+4,1425,38,686,19.3,18.0,20.7,work identity (title + writers),pre,newly observed,4319
+5,701,8,693,20.2,18.8,21.8,work identity (title + writers),pre,newly observed,4319
+1,1731,152,467,8.8,7.5,10.2,title-only identity,post,newly observed,1731
+2,1112,57,583,13.5,11.8,15.3,title-only identity,post,newly observed,1731
+3,472,22,450,17.5,15.3,20.0,title-only identity,post,newly observed,1731
+1,80,9,29,11.3,6.0,20.5,title-only identity,post,confirmed world premiere (listing),80
+2,42,0,26,11.3,6.0,20.5,title-only identity,post,confirmed world premiere (listing),80
+3,16,2,14,22.3,10.8,42.9,title-only identity,post,confirmed world premiere (listing),80
+1,4230,394,755,9.3,8.5,10.2,title-only identity,pre,newly observed,4230
+2,3081,175,693,14.5,13.4,15.6,title-only identity,pre,newly observed,4230
+3,2213,72,739,17.2,16.0,18.5,title-only identity,pre,newly observed,4230
+4,1402,37,656,19.4,18.1,20.9,title-only identity,pre,newly observed,4230
+5,709,8,701,20.3,18.9,21.9,title-only identity,pre,newly observed,4230
+1,997,89,299,8.9,7.3,10.9,fixed panel only,post,newly observed,997
+2,609,33,298,13.9,11.7,16.4,fixed panel only,post,newly observed,997
+3,278,12,266,17.6,14.8,20.9,fixed panel only,post,newly observed,997
+1,56,5,20,8.9,3.8,20.1,fixed panel only,post,confirmed world premiere (listing),56
+2,31,2,23,14.8,7.1,29.3,fixed panel only,post,confirmed world premiere (listing),56
+3,6,0,6,14.8,7.1,29.3,fixed panel only,post,confirmed world premiere (listing),56
+1,2153,200,404,9.3,8.1,10.6,fixed panel only,pre,newly observed,2153
+2,1549,78,365,13.9,12.4,15.5,fixed panel only,pre,newly observed,2153
+3,1106,37,403,16.7,15.1,18.6,fixed panel only,pre,newly observed,2153
+4,666,23,312,19.6,17.7,21.7,fixed panel only,pre,newly observed,2153
+5,331,6,325,21.1,18.9,23.5,fixed panel only,pre,newly observed,2153
+1,1806,165,474,9.1,7.9,10.6,without recovered print rows,post,newly observed,1806
+2,1167,61,609,13.9,12.3,15.7,without recovered print rows,post,newly observed,1806
+3,497,20,477,17.4,15.3,19.7,without recovered print rows,post,newly observed,1806
+1,85,9,30,10.6,5.7,19.4,without recovered print rows,post,confirmed world premiere (listing),85
+2,46,1,28,12.5,6.9,22.3,without recovered print rows,post,confirmed world premiere (listing),85
+3,17,2,15,22.8,11.6,42.1,without recovered print rows,post,confirmed world premiere (listing),85
+1,3928,355,691,9.0,8.2,10.0,without recovered print rows,pre,newly observed,3928
+2,2882,160,599,14.1,13.0,15.3,without recovered print rows,pre,newly observed,3928
+3,2123,72,722,17.0,15.8,18.3,without recovered print rows,pre,newly observed,3928
+4,1329,33,654,19.1,17.7,20.5,without recovered print rows,pre,newly observed,3928
+5,642,8,634,20.1,18.5,21.7,without recovered print rows,pre,newly observed,3928
+1,1555,136,407,8.7,7.4,10.3,plays (era-neutral),post,newly observed,1555
+2,1012,45,516,12.8,11.1,14.7,plays (era-neutral),post,newly observed,1555
+3,451,17,434,16.1,13.9,18.5,plays (era-neutral),post,newly observed,1555
+1,71,9,26,12.7,6.8,22.9,plays (era-neutral),post,confirmed world premiere (listing),71
+2,36,1,20,15.1,8.3,26.6,plays (era-neutral),post,confirmed world premiere (listing),71
+3,15,2,13,26.4,13.7,47.1,plays (era-neutral),post,confirmed world premiere (listing),71
+1,3714,315,655,8.5,7.6,9.4,plays (era-neutral),pre,newly observed,3714
+2,2744,156,612,13.7,12.6,14.9,plays (era-neutral),pre,newly observed,3714
+3,1976,47,664,15.7,14.5,17.1,plays (era-neutral),pre,newly observed,3714
+4,1265,25,599,17.4,16.0,18.9,plays (era-neutral),pre,newly observed,3714
+5,641,5,636,18.0,16.6,19.6,plays (era-neutral),pre,newly observed,3714

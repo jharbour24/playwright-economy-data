@@ -1,0 +1,15 @@
+season,era,contemporary_productions,contemporary_writer_ok,contemporary_writer_missing,contemporary_writer_unparsed,writer_missing_or_unresolved_pct
+2010-11,print,1540,1363,124,53,11.5
+2011-12,print,1482,1342,106,34,9.4
+2012-13,print,1578,1413,125,40,10.5
+2013-14,print,1642,1481,120,41,9.8
+2014-15,print,1661,1497,111,53,9.9
+2015-16,print,1695,1522,131,42,10.2
+2016-17,print,1850,1696,118,36,8.3
+2017-18,print,1735,1603,107,25,7.6
+2018-19,print,1806,1680,102,24,7.0
+2019-20,print,1780,1679,81,20,5.7
+2022-23,online,1187,1094,47,46,7.8
+2023-24,online,1492,1373,74,45,8.0
+2024-25,online,1171,1105,41,25,5.6
+2025-26,online,1308,1221,39,48,6.7

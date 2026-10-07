@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "The Playwright Economy: corrected summary dataset"
+authors:
+  - family-names: Harbour
+    given-names: Jared
+version: "1.0.0"
+date-released: "2026-10-07"
+license: CC-BY-4.0
+repository-code: "https://github.com/jharbour24/playwright-economy-data"
+keywords:
+  - theatre
+  - playwrights
+  - American Theatre magazine
+  - licensing
+  - television writing
