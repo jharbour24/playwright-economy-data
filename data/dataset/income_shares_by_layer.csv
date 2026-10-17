@@ -1,0 +1,9 @@
+scenario,era,aggregate_share_premiere_pct,aggregate_share_licensed_pct,aggregate_share_amateur_pct,mean_writer_share_premiere_pct,mean_writer_share_licensed_pct,mean_writer_share_amateur_pct,over_40k_mean_writer_share_premiere_pct,over_40k_mean_writer_share_licensed_pct,over_40k_mean_writer_share_amateur_pct,writers_with_any_amateur_income_pct,note,label
+low,2015-16 to 2019-20,34.9,32.1,33.0,46.6,26.0,27.4,31.1,34.8,34.0,38.8,dollars 2024; amateur income is a 2026 annual figure attached to each season; author share is a PLACEHOLDER,MODELED
+low,2022-23 to 2025-26,32.0,26.1,41.9,42.9,23.8,33.3,33.1,22.7,44.2,44.4,dollars 2024; amateur income is a 2026 annual figure attached to each season; author share is a PLACEHOLDER,MODELED
+central,2015-16 to 2019-20,27.7,20.5,51.8,46.6,24.4,28.9,20.1,21.9,58.0,38.8,dollars 2024; amateur income is a 2026 annual figure attached to each season; author share is a PLACEHOLDER,MODELED
+central,2022-23 to 2025-26,22.8,15.5,61.6,42.8,22.3,34.8,16.5,15.9,67.6,44.4,dollars 2024; amateur income is a 2026 annual figure attached to each season; author share is a PLACEHOLDER,MODELED
+high,2015-16 to 2019-20,22.1,17.2,60.7,46.2,24.4,29.3,37.5,20.4,42.1,38.8,dollars 2024; amateur income is a 2026 annual figure attached to each season; author share is a PLACEHOLDER,MODELED
+high,2022-23 to 2025-26,16.8,12.5,70.7,42.5,22.3,35.3,31.2,17.8,51.0,44.4,dollars 2024; amateur income is a 2026 annual figure attached to each season; author share is a PLACEHOLDER,MODELED
+"central, standard 50/50 licence split",2015-16 to 2019-20,35.0,21.2,43.7,47.5,24.5,28.1,26.0,22.8,51.2,38.8,dollars 2024; amateur income is a 2026 annual figure attached to each season; author share is a PLACEHOLDER,MODELED
+"central, standard 50/50 licence split",2022-23 to 2025-26,29.9,16.4,53.7,43.6,22.5,33.9,22.4,16.2,61.4,44.4,dollars 2024; amateur income is a 2026 annual figure attached to each season; author share is a PLACEHOLDER,MODELED

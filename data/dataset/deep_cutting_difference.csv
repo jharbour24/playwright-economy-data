@@ -1,0 +1,2 @@
+comparison,difference_pts,ci95_low,ci95_high,n_deep,n_rest,original_extraction,label,cluster
+newcomer-share change: deep cutters (cut >=30%) minus all other R3 theatres,-3.2,-7.9,1.5,67,185,-6 (-12 to -1),OBSERVED,"theatre, resampled within group"

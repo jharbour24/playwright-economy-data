@@ -1,0 +1,13 @@
+season,newly_observed_lead_writers,close_match_to_earlier_name_ratio_ge_88,pct,note
+2014,378,9,2.4,a close match is an upper bound on name-variant artifacts: distinct people can have similar names; earlier = any listed season since 2010-11
+2015,352,8,2.3,a close match is an upper bound on name-variant artifacts: distinct people can have similar names; earlier = any listed season since 2010-11
+2016,433,8,1.8,a close match is an upper bound on name-variant artifacts: distinct people can have similar names; earlier = any listed season since 2010-11
+2017,382,12,3.1,a close match is an upper bound on name-variant artifacts: distinct people can have similar names; earlier = any listed season since 2010-11
+2018,400,13,3.2,a close match is an upper bound on name-variant artifacts: distinct people can have similar names; earlier = any listed season since 2010-11
+2019,392,10,2.6,a close match is an upper bound on name-variant artifacts: distinct people can have similar names; earlier = any listed season since 2010-11
+2022,301,5,1.7,a close match is an upper bound on name-variant artifacts: distinct people can have similar names; earlier = any listed season since 2010-11
+2023,361,8,2.2,a close match is an upper bound on name-variant artifacts: distinct people can have similar names; earlier = any listed season since 2010-11
+2024,276,7,2.5,a close match is an upper bound on name-variant artifacts: distinct people can have similar names; earlier = any listed season since 2010-11
+2025,324,9,2.8,a close match is an upper bound on name-variant artifacts: distinct people can have similar names; earlier = any listed season since 2010-11
+2015-19,1959,51,2.6,a close match is an upper bound on name-variant artifacts: distinct people can have similar names; earlier = any listed season since 2010-11
+2022-25,1262,29,2.3,a close match is an upper bound on name-variant artifacts: distinct people can have similar names; earlier = any listed season since 2010-11

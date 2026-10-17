@@ -1,0 +1,7 @@
+royalty_rate,era,writers_per_season_m12,writers_per_season_corrected,median_royalty_m12,median_royalty_corrected,p90_royalty_m12,p90_royalty_corrected,over_10000_m12,over_10000_corrected,over_25000_m12,over_25000_corrected,over_40000_m12,over_40000_corrected,label
+0.05,2022-23 to 2025-26,718,736,5900.0,5900.0,29500.0,29500.0,228.5,224.8,83.2,82.5,46.0,42.2,MODELED (replication)
+0.05,2015-16 to 2019-20,898,962,5900.0,5900.0,30800.0,30800.0,276.4,292.0,107.4,116.0,63.8,65.0,MODELED (replication)
+0.06,2022-23 to 2025-26,718,736,7100.0,7100.0,35300.0,35300.0,239.8,236.5,104.0,104.8,61.5,64.0,MODELED (replication)
+0.06,2015-16 to 2019-20,898,962,7100.0,7100.0,37000.0,37000.0,289.8,311.6,131.8,140.6,81.0,88.6,MODELED (replication)
+0.08,2022-23 to 2025-26,718,736,9400.0,9400.0,47100.0,47100.0,250.5,247.5,142.0,144.2,83.2,82.5,MODELED (replication)
+0.08,2015-16 to 2019-20,898,962,9400.0,9400.0,49300.0,49400.0,306.8,333.2,176.4,188.4,107.4,116.0,MODELED (replication)

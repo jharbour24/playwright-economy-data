@@ -1,0 +1,5 @@
+venue_type,productions,share_pct,note,label
+school,2547,30.2,Concord Now Playing: ~63% random sample (sampled with replacement) of current and announced productions on 2026-09-30; venue type inferred from organization names,OBSERVED
+college,810,9.6,Concord Now Playing: ~63% random sample (sampled with replacement) of current and announced productions on 2026-09-30; venue type inferred from organization names,OBSERVED
+community,1614,19.2,Concord Now Playing: ~63% random sample (sampled with replacement) of current and announced productions on 2026-09-30; venue type inferred from organization names,OBSERVED
+other,3457,41.0,Concord Now Playing: ~63% random sample (sampled with replacement) of current and announced productions on 2026-09-30; venue type inferred from organization names,OBSERVED

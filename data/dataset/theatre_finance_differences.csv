@@ -1,0 +1,7 @@
+split,difference,estimate,ci95_low,ci95_high,n_richest,n_poorest,label,cluster
+2015-19 mean real total expenses,richest third minus poorest third: season change (pct points),-4.24,-15.2,6.59,25,25,OBSERVED,"theatre, resampled within tercile"
+2015-19 mean real total expenses,richest third minus poorest third: newcomer-share change (points),-7.45,-16.19,1.62,25,25,OBSERVED,"theatre, resampled within tercile"
+2015-19 mean real total expenses,richest third minus poorest third: change in newcomer slots per season,-0.32,-0.85,0.25,25,25,OBSERVED,"theatre, resampled within tercile"
+2015-19 mean real net assets,richest third minus poorest third: season change (pct points),-10.6,-24.41,3.36,25,25,OBSERVED,"theatre, resampled within tercile"
+2015-19 mean real net assets,richest third minus poorest third: newcomer-share change (points),1.15,-7.95,9.79,25,25,OBSERVED,"theatre, resampled within tercile"
+2015-19 mean real net assets,richest third minus poorest third: change in newcomer slots per season,0.04,-0.5,0.56,25,25,OBSERVED,"theatre, resampled within tercile"

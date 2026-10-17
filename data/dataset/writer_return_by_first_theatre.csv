@@ -1,0 +1,9 @@
+era,group,writers,at_risk_t2,listed_again_within_2_seasons_pct,ci95_low,ci95_high,method,r1_reference,label
+post,all newly observed lead writers,887,549,19.4,16.7,22.4,Kaplan-Meier (r1 writer_return); bootstrap over writers,"pre 23.8 (21.8-25.8), post 19.4 (16.7-22.4)",OBSERVED
+post,first theatre a deep cutter (cut >=30%),117,80,21.9,14.2,29.6,Kaplan-Meier (r1 writer_return); bootstrap over writers,"pre 23.8 (21.8-25.8), post 19.4 (16.7-22.4)",OBSERVED
+post,first theatre cut <30% or grew,463,268,20.0,16.3,24.1,Kaplan-Meier (r1 writer_return); bootstrap over writers,"pre 23.8 (21.8-25.8), post 19.4 (16.7-22.4)",OBSERVED
+post,first theatre not classifiable,307,201,17.4,13.0,22.3,Kaplan-Meier (r1 writer_return); bootstrap over writers,"pre 23.8 (21.8-25.8), post 19.4 (16.7-22.4)",OBSERVED
+pre,all newly observed lead writers,1945,1312,23.8,21.8,25.8,Kaplan-Meier (r1 writer_return); bootstrap over writers,"pre 23.8 (21.8-25.8), post 19.4 (16.7-22.4)",OBSERVED
+pre,first theatre a deep cutter (cut >=30%),395,260,22.3,18.1,26.7,Kaplan-Meier (r1 writer_return); bootstrap over writers,"pre 23.8 (21.8-25.8), post 19.4 (16.7-22.4)",OBSERVED
+pre,first theatre cut <30% or grew,840,571,24.0,20.9,27.0,Kaplan-Meier (r1 writer_return); bootstrap over writers,"pre 23.8 (21.8-25.8), post 19.4 (16.7-22.4)",OBSERVED
+pre,first theatre not classifiable,710,481,24.3,21.2,27.8,Kaplan-Meier (r1 writer_return); bootstrap over writers,"pre 23.8 (21.8-25.8), post 19.4 (16.7-22.4)",OBSERVED

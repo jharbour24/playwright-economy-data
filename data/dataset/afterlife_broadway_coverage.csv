@@ -1,0 +1,15 @@
+period,master_show_type,match,broadway_productions,label
+2015-19,M,ambiguous,15,OBSERVED
+2015-19,M,no listed contemporary work with this title,24,OBSERVED
+2015-19,M,verified,25,OBSERVED
+2015-19,P,ambiguous,26,OBSERVED
+2015-19,P,no listed contemporary work with this title,29,OBSERVED
+2015-19,P,rejected,1,OBSERVED
+2015-19,P,verified,40,OBSERVED
+2022-25,M,ambiguous,18,OBSERVED
+2022-25,M,no listed contemporary work with this title,35,OBSERVED
+2022-25,M,verified,16,OBSERVED
+2022-25,P,ambiguous,15,OBSERVED
+2022-25,P,no listed contemporary work with this title,32,OBSERVED
+2022-25,P,rejected,3,OBSERVED
+2022-25,P,verified,31,OBSERVED

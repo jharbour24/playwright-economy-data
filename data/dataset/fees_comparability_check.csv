@@ -1,0 +1,6 @@
+item,evidence,label
+DPS catalogue fee basis,"per-performance fee printed in the catalogue; stock/amateur terms; assumes under 350 seats; professional and larger houses quoted on application (royalty_guidance.csv, royalty_dps_catalogue_fees.csv)",CAN'T TEST
+Concord 2026 fee basis,"a per-performance MINIMUM on the title page; actual fees 'rise with the details of the application' on a 'rising scale'; the Cost Estimator gives estimates, not quotes (royalty_guidance.csv)",CAN'T TEST
+verdict,NOT COMPARABLE: a printed standard amateur rate for a stated house size vs a floor on an undisclosed rising scale. The ratio of the two is not a price change for any defined production. Fee-change test stopped.,CAN'T TEST
+comparison group,none in the project: MTI and TRW publish no fee schedule; Dramatic Publishing lists current K-12 rates only (royalty_guidance.csv); no historical fees for a non-merged licensor exist here,CAN'T TEST
+pairs available (not analysed),50 same-title pairs in royalty_same_title_change.csv,CAN'T TEST

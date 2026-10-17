@@ -1,0 +1,4 @@
+titles,productions,top10_share_pct,top50_share_pct,top100_share_pct,hhi_across_titles,titles_with_1_production_pct,subset,note,label
+1736,8428,11.4,32.6,44.8,32.8,46.0,all titles,Concord Now Playing: ~63% random sample (sampled with replacement) of current and announced productions on 2026-09-30; venue type inferred from organization names,OBSERVED
+411,2677,29.0,57.9,73.1,126.0,29.4,play,Concord Now Playing: ~63% random sample (sampled with replacement) of current and announced productions on 2026-09-30; venue type inferred from organization names,OBSERVED
+92,938,58.2,93.5,100.0,507.4,28.3,musical,Concord Now Playing: ~63% random sample (sampled with replacement) of current and announced productions on 2026-09-30; venue type inferred from organization names,OBSERVED

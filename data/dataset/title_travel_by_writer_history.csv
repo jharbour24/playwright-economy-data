@@ -1,0 +1,3 @@
+titles_by,n_pre,reach_2_seasons_pre_pct,n_post,reach_2_seasons_post_pct,change_pts,ci95_low,ci95_high,method,label
+newly observed lead writer,1887,11.7,886,8.5,-3.2,-5.6,-0.6,"Kaplan-Meier, newly observed works (r1 cohorts), event = listing at a theatre outside the launch set; bootstrap over titles",OBSERVED
+previously observed lead writer,1871,20.0,702,23.1,3.1,-0.8,6.9,"Kaplan-Meier, newly observed works (r1 cohorts), event = listing at a theatre outside the launch set; bootstrap over titles",OBSERVED

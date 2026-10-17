@@ -1,0 +1,15 @@
+period,measure,comparison,difference_pts,ci95_low,ci95_high,label,basis,licensing
+2015-19,(iii) combined entity,all second-and-later minus launches,31.9,27.4,36.3,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2015-19,(iii) combined entity,second productions (b) minus launches,28.2,23.4,32.9,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2015-19,(i) any checked house,all second-and-later minus launches,38.0,33.6,42.2,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2015-19,(i) any checked house,second productions (b) minus launches,30.9,26.1,35.5,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2015-19,(iii) verified only,all second-and-later minus launches,19.4,15.3,23.6,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2015-19,(iii) verified only,second productions (b) minus launches,28.1,23.2,32.9,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2022-25,(iii) combined entity,all second-and-later minus launches,32.4,27.1,37.6,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2022-25,(iii) combined entity,second productions (b) minus launches,23.5,17.7,29.5,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2022-25,(i) any checked house,all second-and-later minus launches,44.5,40.0,48.9,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2022-25,(i) any checked house,second productions (b) minus launches,30.0,24.2,35.6,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2022-25,(iii) verified only,all second-and-later minus launches,21.7,16.6,26.7,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2022-25,(iii) verified only,second productions (b) minus launches,20.4,14.7,26.2,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2022-25 minus 2015-19,(iii) combined entity,all second-and-later,-1.6,-6.4,3.5,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share
+2022-25 minus 2015-19,(i) any checked house,all second-and-later,4.8,0.5,9.3,OBSERVED,raw slug match unless stated,current catalogues (2026) applied retrospectively; NOT historical market share

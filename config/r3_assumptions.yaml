@@ -1,0 +1,123 @@
+# Assumptions for the playwright income model (the income_* tables in data/dataset/).
+#
+# Every range is written low / central / high in the direction of INCOME (low = the value that gives less income).
+# The Monte Carlo draws each range uniformly and independently between low and high.
+# label:
+#   SOURCED      a published figure in the project (source named)
+#   ESTIMATED    derived from project data from the project data (method named)
+#   ASSUMED      a judgement; no source in the project
+#   PLACEHOLDER  to be replaced after an interview with a licensing executive
+# Dollars: 2024 (CPI-U), as in m12 and r1.
+
+dollars: 2024
+
+premiere:                       # Step 2(a): launch productions (r2 A4 type a)
+  royalty_rate:                 # share of gross box office paid to the writer
+    low: 0.05
+    central: 0.06
+    high: 0.08
+    label: SOURCED
+    source: "F29: Playwrights Horizons 6% royalty (AT 2014); 5-8% is the m12/r1 scenario range"
+  lump_usd:                     # commission or advance per launch production, added to the royalty
+    low: 0
+    central: 4000
+    high: 12000
+    label: ASSUMED
+    source: >-
+      anchored on F29: commissions $3,000-5,000 (Outrageous Fortune, both retellings); Playwrights Horizons advance $12,000 (2014). Low = no commission. An advance recoups against royalty, so adding it overstates; see lump_mode
+  lump_mode: additive           # additive (writer gets royalty + lump) | floor (writer gets max(royalty, lump): an advance)
+
+licensed_pro:                   # Step 2(b): second-and-later professional productions (r2 A4 types b, c, u, r)
+  pct_of_gross:                 # percentage licence for a professional (stock) production
+    low: 0.05
+    central: 0.06
+    high: 0.08
+    label: ASSUMED
+    source: "same range as the premiere royalty; professional fees are 'quoted on application' (royalty_guidance.csv)"
+  fee_basis: max                # max (greater of percentage and per-performance minimum) | percentage | per_performance
+
+author_share:                   # author's share of a licence fee collected by a licensing house (Steps 2b and 3)
+  low: 0.50
+  central: 0.75
+  high: 0.90
+  label: PLACEHOLDER
+  source: >-
+    NOT SOURCED. Provisional range only, so the model runs. Replace after the licensing-executive interview. Titles with no checked house are treated as licensed directly by the writer's agent (share = 1).
+
+standard_split:                 # named scenario: house and playwright split the licence fee 50/50
+  author_share: 0.50            # every other parameter at central; reported beside low / central / high, with and without agent commission
+  label: SCENARIO
+
+fees:                           # per-performance licence fees
+  multiplier:                   # actual fee / title-page minimum ('rising scale' with house size)
+    low: 1.00
+    central: 1.25
+    high: 1.75
+    label: ASSUMED
+    source: "Concord: the title-page fee is a per-performance minimum that rises with the application (royalty_guidance.csv); no data on the size of the rise"
+  musical_fee_per_perf_usd:     # no musical in royalty_title_minimum_fees.csv has a printed fee (all 'quoted on application')
+    low: 150
+    central: 300
+    high: 600
+    label: ASSUMED
+    source: "no musical fee in the project; judgement"
+  play_fee_fallback_usd: 130    # OBSERVED: median Concord title-page minimum, all imprints (fees_minimum_by_imprint.csv)
+
+box_office:                     # Step 2: gross per production, method B (performances x seats x occupancy x price)
+  ticket_share_of_program_revenue: 0.6   # SOURCED: Theatre Facts 2023, ticket income / earned income 0.63 (2019), 0.60 (2023); as m12
+  perf_per_week:                # converts listed run dates to performances
+    low: 5
+    central: 6
+    high: 8
+    label: ASSUMED
+    source: "regional runs 5-8 performances a week; checked against TCG performances per production in income_box_office.csv"
+  occupancy:
+    low: 0.65
+    central: 0.734
+    high: 0.80
+    label: SOURCED
+    source: "central: TCG Theatre Facts 2019, 84 Trend Theatres, capacity 73.4% (2019); range assumed"
+  ticket_price_usd:             # ticket income per attendee, 2024 dollars
+    low: 29.99
+    central: 33.18
+    high: 47.30
+    label: SOURCED
+    source: "TCG Theatre Facts (tcg_panels.csv): 137 theatres $33.18 (2019), $29.99 (2023); 84 theatres $47.30 (2019)"
+  unmatched_seats:              # seats at a listed theatre with no matched 990 (smaller than Trend Theatres on average)
+    low: 120
+    central: 200
+    high: 325
+    label: ASSUMED
+    source: "high = TCG 137-theatre attendance per performance 239 (2019) / 0.734 occupancy; low and central assumed"
+
+amateur:                        # Step 3: Concord 'Now Playing' layer (MODELED)
+  sample_scale:                 # 1 / inclusion probability of a production in the 2026-09-30 sweep
+    low: 1.538
+    central: 1.584
+    high: 1.70
+    label: ESTIMATED
+    source: >-
+      1.584 = 1/0.631: 13,320 draws with replacement gave 8,428 unique rows, so N = 13,351 (solve N(1-exp(-13320/N)) = 8428). 1.538 = 1/0.650: 49 titles with an exact census. High allows for titles the sweep missed (15 of 49 census titles, 69 rows, had 0 sampled rows)
+  turnover:                     # times a year the current-and-announced list turns over
+    low: 1.5
+    central: 2.5
+    high: 3.5
+    label: ASSUMED
+    source: "start-date spread of the snapshot implies about 2.5-3 (income_amateur_sampling.csv); range assumed"
+  performances:                 # per production, by venue type
+    school:    {low: 2, central: 3,   high: 4,  label: ASSUMED}
+    college:   {low: 3, central: 4.5, high: 6,  label: ASSUMED}
+    community: {low: 6, central: 9,   high: 12, label: ASSUMED}
+    other:     {low: 6, central: 8,   high: 12, label: ASSUMED}
+
+agent_commission: 0.10          # applied as a switch; every result is shown with and without it
+
+thresholds_usd: [25000, 40000]
+nyc_living_wage:                # SOURCED (1 adult, no children)
+  value: 75164                  # 2024 $: 79,469 x CPI-U 2024 (313.689) / CPI-U 2026 Jan-Aug mean (331.655), cpi_u_annual.csv
+  source: >-
+    MIT Living Wage Calculator, New York County NY, 1 adult 0 children: $38.21/hour, required annual income before taxes $79,469 (data updated 2026-02-15; livingwage.mit.edu/counties/36061, read 2026-10-11), deflated to 2024 dollars
+
+monte_carlo:
+  draws: 1000
+  seed: 20261011

@@ -1,0 +1,25 @@
+group,measure,period,share_pct,ci95_low,ci95_high,label,cluster
+cut >=30%,newcomer,pre,25.7,21.1,31.0,OBSERVED,theatre
+cut >=30%,newcomer,post,26.8,20.9,33.4,OBSERVED,theatre
+cut >=30%,newcomer,change (points),1.1,-3.0,5.4,OBSERVED,theatre
+cut >=30%,house_writer,pre,16.9,13.5,20.7,OBSERVED,theatre
+cut >=30%,house_writer,post,13.5,10.0,17.0,OBSERVED,theatre
+cut >=30%,house_writer,change (points),-3.4,-8.2,1.0,OBSERVED,theatre
+cut 10-30%,newcomer,pre,23.1,20.0,26.5,OBSERVED,theatre
+cut 10-30%,newcomer,post,25.8,22.4,29.5,OBSERVED,theatre
+cut 10-30%,newcomer,change (points),2.7,-0.5,6.0,OBSERVED,theatre
+cut 10-30%,house_writer,pre,15.0,11.9,18.3,OBSERVED,theatre
+cut 10-30%,house_writer,post,15.0,12.4,17.8,OBSERVED,theatre
+cut 10-30%,house_writer,change (points),0.0,-2.8,2.9,OBSERVED,theatre
+cut <10% or grew,newcomer,pre,22.8,19.9,26.2,OBSERVED,theatre
+cut <10% or grew,newcomer,post,28.4,25.1,32.2,OBSERVED,theatre
+cut <10% or grew,newcomer,change (points),5.6,2.5,8.5,OBSERVED,theatre
+cut <10% or grew,house_writer,pre,17.1,14.8,19.3,OBSERVED,theatre
+cut <10% or grew,house_writer,post,14.6,12.3,16.9,OBSERVED,theatre
+cut <10% or grew,house_writer,change (points),-2.4,-5.1,0.2,OBSERVED,theatre
+all other (cut <30%),newcomer,pre,23.0,20.8,25.4,OBSERVED,theatre
+all other (cut <30%),newcomer,post,27.3,24.8,29.9,OBSERVED,theatre
+all other (cut <30%),newcomer,change (points),4.3,2.0,6.6,OBSERVED,theatre
+all other (cut <30%),house_writer,pre,16.0,14.1,17.9,OBSERVED,theatre
+all other (cut <30%),house_writer,post,14.8,13.0,16.5,OBSERVED,theatre
+all other (cut <30%),house_writer,change (points),-1.2,-3.2,0.6,OBSERVED,theatre

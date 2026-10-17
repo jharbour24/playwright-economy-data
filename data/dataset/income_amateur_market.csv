@@ -1,0 +1,12 @@
+venue_type,rows_sample,rows_census_titles,est_annual_productions_central,performances_per_production,est_licence_revenue_central,note,label
+school,2469,114.0,10062,2-4 (central 3),6378000.0,Concord titles only; rows at listed professional theatres removed; rows_sample columns count titles for the fee and work-type lines,MODELED
+college,750,94.0,3205,3-6 (central 4.5),2727000.0,Concord titles only; rows at listed professional theatres removed; rows_sample columns count titles for the fee and work-type lines,MODELED
+community,1483,162.0,6278,6-12 (central 9),10240000.0,Concord titles only; rows at listed professional theatres removed; rows_sample columns count titles for the fee and work-type lines,MODELED
+other,2960,351.0,12599,6-12 (central 8),20181000.0,Concord titles only; rows at listed professional theatres removed; rows_sample columns count titles for the fee and work-type lines,MODELED
+fee basis: all-imprint median,1171,,16758,,,Concord titles only; rows at listed professional theatres removed; rows_sample columns count titles for the fee and work-type lines,MODELED
+fee basis: assumed musical fee,121,,5512,,,Concord titles only; rows at listed professional theatres removed; rows_sample columns count titles for the fee and work-type lines,MODELED
+fee basis: imprint median,301,,5397,,,Concord titles only; rows at listed professional theatres removed; rows_sample columns count titles for the fee and work-type lines,MODELED
+fee basis: title minimum,109,,4476,,,Concord titles only; rows at listed professional theatres removed; rows_sample columns count titles for the fee and work-type lines,MODELED
+work type: musical,129,,5683,,12101000.0,Concord titles only; rows at listed professional theatres removed; rows_sample columns count titles for the fee and work-type lines,MODELED
+work type: play,411,,9865,,10553000.0,Concord titles only; rows at listed professional theatres removed; rows_sample columns count titles for the fee and work-type lines,MODELED
+work type: unclassified (treated as play),1162,,16596,,16871000.0,Concord titles only; rows at listed professional theatres removed; rows_sample columns count titles for the fee and work-type lines,MODELED

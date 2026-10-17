@@ -1,4 +1,4 @@
-# The Playwright Economy: corrected summary dataset (v1.0)
+# The Playwright Economy: corrected summary dataset (v2.0)
 
 Summary tables behind the essay *Come Back Next Month* (Earthbound, 2026), on how many new plays and playwrights
 America's nonprofit theatres produce, before and after the pandemic.
@@ -8,7 +8,7 @@ underlying season listings come from licensed and third-party sources that do no
 
 ## What's in it
 
-37 small CSV files in `data/dataset/`. Each one is described in [DATA_DICTIONARY.md](DATA_DICTIONARY.md). The main ones:
+91 small CSV files in `data/dataset/`. Each one is described in [DATA_DICTIONARY.md](DATA_DICTIONARY.md). The main ones:
 
 | Question | File |
 |---|---|
@@ -23,6 +23,13 @@ underlying season listings come from licensed and third-party sources that do no
 | Playwright production royalties (a model) | `royalty.csv` |
 | Licensing shares and timeline | `licensing_shares.csv`, `licensing_timeline.csv` |
 | Television writing credits and WGA series | `tv_shares.csv`, `tv_kilroys_2014_17.csv`, `tv_event.csv`, `wga_series.csv` |
+| Do second productions run through a licensing house? | `afterlife_licensing_by_type.csv`, `afterlife_type_counts.csv` |
+| How concentrated did licensing become after the mergers? | `merger_concentration_path.csv`, `merger_owner_shares.csv`, `merger_broadway_catalogue_check.csv` |
+| Who holds the school and amateur market? | `school_market_edta_lists.csv`, `school_market_concord_venue_types.csv` |
+| Newcomers, house writers and deep-cutting theatres | `newcomer_share.csv`, `house_writer_share.csv`, `deep_cutting_theatres.csv`, `title_travel_by_writer_history.csv` |
+| Licence fees | `fees_minimum_by_imprint.csv`, `fees_comparability_check.csv` |
+| What might a produced playwright earn? (a model) | `income_summary.csv`, `income_monte_carlo.csv`, `income_standard_split.csv`, `income_sensitivity.csv` |
+| Equity LORT work weeks; TCG subscriber trends | `lort_work_weeks.csv`, `tcg_trend_windows.csv` |
 | How reliable is the data? | `audit_rates.csv`, `recall_rates.csv`, `completion_rates.csv`, `classification_coverage.csv` |
 
 ## Definitions in one paragraph
@@ -40,11 +47,15 @@ underlying season listings come from licensed and third-party sources that do no
 - **Writers** exclude source authors (the novelist behind an adaptation is not its playwright).
 - **Fixed panel:** theatres listed in at least 8 of 10 print seasons and 3 of 4 online seasons.
 
+**Where each number in the essay comes from:** [ESSAY_NUMBERS.md](ESSAY_NUMBERS.md).
+
 ## Things to know before using the numbers
 
 - **Announced, not completed.** Most announced productions ran, but 2019-20 runs that reached March 2020 mostly did not (`completion_rates.csv`).
 - **"Straight plays" are not comparable across eras.** The online listings classify far more shows, so use the "plays, era-neutral" rows.
-- **The royalty figures are a model** built on stated assumptions, not observed payments.
+- **The royalty and income figures are a model** built on stated assumptions, not observed payments. Every assumption, its range and its source is in [`config/r3_assumptions.yaml`](config/r3_assumptions.yaml); the author's share of a licence fee is a placeholder. The amateur layer covers Concord titles only (the one house with a public production feed) and cannot separate estates from living writers.
+- **Merger concentration is structural.** It holds today's catalogue fixed and moves only the owners, so it shows what the mergers alone did, not observed market behaviour.
+- **Code is not included.** The scripts read row-level listings that cannot be redistributed, so they would not run here.
 - **Licensing shares** use each title's licensor today, applied backwards. They are not historical market shares.
 - **Data quality is measured, not assumed.** Error rates and extraction recall are in `audit_rates.csv` and `recall_rates.csv`.
 
@@ -52,4 +63,4 @@ underlying season listings come from licensed and third-party sources that do no
 
 Data: CC BY 4.0 (see [LICENSE-DATA](LICENSE-DATA)). Please cite as in [CITATION.cff](CITATION.cff):
 
-> Harbour, Jared (2026). *The Playwright Economy: corrected summary dataset*, v1.0. https://github.com/jharbour24/playwright-economy-data
+> Harbour, Jared (2026). *The Playwright Economy: corrected summary dataset*, v2.0. https://github.com/jharbour24/playwright-economy-data

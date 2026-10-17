@@ -5,8 +5,8 @@ title: "The Playwright Economy: corrected summary dataset"
 authors:
   - family-names: Harbour
     given-names: Jared
-version: "1.0.0"
-date-released: "2026-10-07"
+version: "2.0.0"
+date-released: "2026-10-16"
 license: CC-BY-4.0
 repository-code: "https://github.com/jharbour24/playwright-economy-data"
 keywords:
@@ -15,3 +15,5 @@ keywords:
   - American Theatre magazine
   - licensing
   - television writing
+  - mergers
+  - royalties

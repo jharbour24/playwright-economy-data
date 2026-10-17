@@ -1,0 +1,27 @@
+item,value,label
+"draws in the sweep (1,332 pages x 10 rows)",13320,ESTIMATED / OBSERVED
+unique productions in the sweep,8428,ESTIMATED / OBSERVED
+"estimated productions on the list, N (solve N(1-exp(-13320/N)) = 8428)",13351,ESTIMATED / OBSERVED
+"inclusion probability, theory (8428 / N)",0.631,ESTIMATED / OBSERVED
+"inclusion probability, census check (49 titles: sampled / census rows)",0.65,ESTIMATED / OBSERVED
+"census check, bootstrap 95% interval over titles",0.544 to 0.719,ESTIMATED / OBSERVED
+census titles with 0 sampled rows (systematic misses),15,ESTIMATED / OBSERVED
+census rows on those titles,69,ESTIMATED / OBSERVED
+duplicates: draws minus unique rows (dropped before counting),4892,ESTIMATED / OBSERVED
+turnover guide: snapshot_rows_sample,7907,ESTIMATED / OBSERVED
+turnover guide: pct_running_on_snapshot,3.1,ESTIMATED / OBSERVED
+turnover guide: median_months_to_start,2.1,ESTIMATED / OBSERVED
+turnover guide: p75_months_to_start,5.6,ESTIMATED / OBSERVED
+turnover guide: p90_months_to_start,7.6,ESTIMATED / OBSERVED
+turnover guide: starts_per_month_next_2_months,1696,ESTIMATED / OBSERVED
+turnover guide: implied_list_window_months,4.7,ESTIMATED / OBSERVED
+turnover guide: implied_turnover_per_year,2.57,ESTIMATED / OBSERVED
+turnover guide: note,"implied turnover = 12 x starts per month in the next two months / rows on the list; October-November is a busy school season, so this leans high",ESTIMATED / OBSERVED
+"rows at listed professional theatres removed (sample, college)",2 of 752,ESTIMATED / OBSERVED
+"rows at listed professional theatres removed (sample, community)",10 of 1493,ESTIMATED / OBSERVED
+"rows at listed professional theatres removed (sample, other)",233 of 3193,ESTIMATED / OBSERVED
+"rows at listed professional theatres removed (sample, school)",0 of 2469,ESTIMATED / OBSERVED
+"rows at listed professional theatres removed (census, college)",0 of 94,ESTIMATED / OBSERVED
+"rows at listed professional theatres removed (census, community)",5 of 167,ESTIMATED / OBSERVED
+"rows at listed professional theatres removed (census, other)",76 of 427,ESTIMATED / OBSERVED
+"rows at listed professional theatres removed (census, school)",0 of 114,ESTIMATED / OBSERVED

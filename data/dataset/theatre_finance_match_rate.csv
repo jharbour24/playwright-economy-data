@@ -1,0 +1,6 @@
+universe,theatres,matched_to_990,match_rate_pct,note,label
+theatres listed in any season 2015-19 (contemporary or classic),575,105,18.3,"990 searches were run only for the original panel, leavers and closures (theatre_990_matches.csv); unsearched theatres count as unmatched",OBSERVED
+"R3/R4 sample (>=3 pre, >=2 post listed seasons)",252,75,29.8,"990 searches were run only for the original panel, leavers and closures (theatre_990_matches.csv); unsearched theatres count as unmatched",OBSERVED
+R3/R4 sample with 2015-19 expenses,252,74,29.4,"990 searches were run only for the original panel, leavers and closures (theatre_990_matches.csv); unsearched theatres count as unmatched",OBSERVED
+R3/R4 sample with 2015-19 net assets,252,74,29.4,"990 searches were run only for the original panel, leavers and closures (theatre_990_matches.csv); unsearched theatres count as unmatched",OBSERVED
+"theatre_990_matches.csv rows searched (old identities: panel, leavers, closures)",229,107,46.7,"990 searches were run only for the original panel, leavers and closures (theatre_990_matches.csv); unsearched theatres count as unmatched",OBSERVED

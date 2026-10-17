@@ -1,0 +1,157 @@
+measure,universe,season,n_productions,share_pct,ci95_low,ci95_high,theatres_clusters,label,look_back,cluster
+newcomer share of slots (newly observed lead writer),all theatres,2014,1497.0,27.3,24.8,29.6,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),all theatres,2015,1522.0,25.2,22.5,28.0,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),all theatres,2016,1696.0,29.0,26.4,31.7,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),all theatres,2017,1603.0,25.6,22.8,28.6,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),all theatres,2018,1680.0,26.0,23.2,28.7,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),all theatres,2019,1679.0,25.1,22.6,27.7,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),all theatres,2022,1094.0,30.7,27.7,34.1,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),all theatres,2023,1372.0,29.3,26.3,32.5,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),all theatres,2024,1105.0,28.1,24.7,31.6,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),all theatres,2025,1221.0,31.9,28.5,35.5,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),all theatres,mean 2015-19,8180.0,26.2,24.5,28.0,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),all theatres,mean 2022-25,4792.0,30.0,28.0,32.2,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),all theatres,change (points),,3.8,1.9,5.8,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,2014,1454.0,27.6,25.1,30.0,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,2015,1478.0,25.7,22.9,28.5,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,2016,1656.0,29.5,26.8,32.3,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,2017,1557.0,26.1,23.2,29.1,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,2018,1640.0,26.4,23.6,29.2,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,2019,1634.0,25.6,23.1,28.4,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,2022,1049.0,31.7,28.7,35.1,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,2023,1348.0,29.5,26.4,32.6,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,2024,1087.0,28.3,24.9,32.0,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,2025,1205.0,32.3,28.8,35.8,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,mean 2015-19,7965.0,26.7,24.9,28.5,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,mean 2022-25,4689.0,30.5,28.4,32.6,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | same-theatre repeats dropped in every season,change (points),,3.8,1.8,5.8,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),2014,1232.0,28.6,25.9,31.5,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),2015,1209.0,26.7,23.8,29.6,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),2016,1327.0,28.3,25.2,31.3,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),2017,1279.0,26.3,23.1,29.4,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),2018,1299.0,26.2,23.1,29.3,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),2019,1247.0,26.8,23.8,29.7,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),2022,881.0,33.7,30.3,37.3,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),2023,1058.0,30.7,27.1,34.2,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),2024,863.0,28.2,24.2,32.3,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),2025,965.0,34.6,30.7,38.4,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),mean 2015-19,6361.0,26.8,24.8,28.8,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),mean 2022-25,3767.0,31.8,29.5,34.2,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | plays (era-neutral),change (points),,5.0,2.9,7.2,788,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,2014,668.0,25.6,22.3,28.8,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,2015,686.0,21.1,17.3,24.9,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,2016,779.0,26.6,22.5,30.3,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,2017,749.0,23.9,19.5,28.4,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,2018,789.0,23.2,19.6,27.1,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,2019,694.0,19.7,16.2,23.2,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,2022,534.0,26.8,22.7,30.9,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,2023,624.0,25.2,20.8,29.6,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,2024,569.0,25.3,21.0,29.9,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,2025,573.0,30.2,25.3,35.0,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,mean 2015-19,3697.0,22.9,20.3,25.7,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,mean 2022-25,2300.0,26.9,24.1,29.6,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),146-theatre panel,change (points),,4.0,1.5,6.4,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,2014,647.0,25.8,22.5,29.2,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,2015,670.0,21.6,17.9,25.4,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,2016,760.0,27.1,22.9,31.0,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,2017,723.0,24.5,20.0,29.2,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,2018,771.0,23.7,20.1,27.7,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,2019,666.0,20.4,16.8,23.9,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,2022,513.0,27.3,23.2,31.4,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,2023,616.0,25.3,21.0,29.8,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,2024,560.0,25.4,20.9,30.1,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,2025,568.0,30.5,25.6,35.3,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,mean 2015-19,3590.0,23.5,20.8,26.3,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,mean 2022-25,2257.0,27.1,24.4,29.9,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | same-theatre repeats dropped in every season,change (points),,3.6,1.2,6.1,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),2014,545.0,25.3,21.8,29.0,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),2015,525.0,22.5,18.0,27.0,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),2016,599.0,25.0,20.2,29.8,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),2017,583.0,24.0,19.1,29.1,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),2018,597.0,21.9,18.1,26.2,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),2019,520.0,20.0,16.3,23.9,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),2022,436.0,29.4,24.7,34.0,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),2023,484.0,27.1,22.4,32.1,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),2024,457.0,24.7,19.7,29.7,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),2025,459.0,32.5,27.3,37.5,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),mean 2015-19,2824.0,22.7,19.6,25.8,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),mean 2022-25,1836.0,28.4,25.3,31.5,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | plays (era-neutral),change (points),,5.7,3.0,8.7,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,2014,333.0,27.6,23.1,32.0,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,2015,367.0,22.1,16.5,27.8,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,2016,400.0,29.2,23.6,35.2,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,2017,406.0,25.4,18.6,32.4,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,2018,411.0,24.8,19.6,30.4,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,2019,382.0,21.7,16.9,27.0,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,2022,299.0,26.8,21.6,32.1,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,2023,340.0,26.5,20.3,32.8,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,2024,322.0,27.0,20.8,33.2,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,2025,334.0,28.7,22.8,35.1,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,mean 2015-19,1966.0,24.6,20.4,29.0,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,mean 2022-25,1295.0,27.2,23.4,31.2,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots (newly observed lead writer),strict 71-theatre panel,change (points),,2.6,-0.6,6.0,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,2014,324.0,27.8,23.0,32.3,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,2015,355.0,22.8,17.1,28.7,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,2016,389.0,30.1,24.3,36.1,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,2017,392.0,25.8,19.0,32.9,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,2018,399.0,25.6,20.3,31.1,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,2019,372.0,22.3,17.3,27.7,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,2022,285.0,27.4,22.1,32.8,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,2023,334.0,26.6,20.5,33.1,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,2024,318.0,26.7,20.6,33.1,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,2025,329.0,29.2,23.1,35.8,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,mean 2015-19,1907.0,25.3,21.0,29.7,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,mean 2022-25,1266.0,27.5,23.6,31.5,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | same-theatre repeats dropped in every season,change (points),,2.2,-1.2,5.8,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),2014,273.0,27.5,22.3,32.6,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),2015,282.0,23.0,16.5,29.8,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),2016,304.0,28.3,21.2,35.3,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),2017,312.0,24.7,17.3,32.2,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),2018,304.0,23.7,18.2,29.3,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),2019,288.0,24.3,18.4,30.5,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),2022,240.0,30.0,24.2,36.0,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),2023,265.0,27.9,21.3,34.5,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),2024,261.0,26.8,20.2,33.6,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),2025,264.0,31.1,24.6,37.8,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),mean 2015-19,1490.0,24.8,19.8,30.0,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),mean 2022-25,1030.0,29.0,24.7,33.2,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | plays (era-neutral),change (points),,4.1,0.2,8.2,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,2014,1497.0,26.6,24.2,28.9,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,2015,1522.0,24.7,22.0,27.4,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,2016,1696.0,28.5,25.9,31.2,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,2017,1603.0,24.8,22.0,27.7,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,2018,1680.0,25.2,22.5,27.8,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,2019,1679.0,24.5,22.0,27.1,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,2022,1094.0,30.3,27.2,33.6,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,2023,1372.0,28.6,25.5,31.9,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,2024,1105.0,27.4,24.1,30.9,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,2025,1221.0,31.1,27.7,34.5,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,mean 2015-19,8180.0,25.5,23.8,27.3,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,mean 2022-25,4792.0,29.4,27.4,31.5,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,all theatres | close-match names treated as previously observed,change (points),,3.8,2.0,5.8,817,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,2014,668.0,24.7,21.5,27.9,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,2015,686.0,20.6,16.8,24.3,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,2016,779.0,26.2,22.1,30.0,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,2017,749.0,23.2,18.9,27.9,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,2018,789.0,22.7,19.2,26.5,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,2019,694.0,19.3,15.7,22.8,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,2022,534.0,26.4,22.5,30.5,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,2023,624.0,24.2,19.9,28.8,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,2024,569.0,25.0,20.5,29.5,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,2025,573.0,30.0,25.2,34.9,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,mean 2015-19,3697.0,22.4,19.8,25.1,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,mean 2022-25,2300.0,26.4,23.6,29.2,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,146-theatre panel | close-match names treated as previously observed,change (points),,4.0,1.6,6.4,146,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,2014,333.0,26.4,21.9,30.8,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,2015,367.0,21.0,15.4,26.8,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,2016,400.0,28.5,22.7,34.5,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,2017,406.0,24.6,17.9,31.9,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,2018,411.0,24.3,19.1,29.7,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,2019,382.0,21.5,16.5,26.7,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,2022,299.0,26.8,21.6,32.1,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,2023,340.0,25.3,19.2,32.0,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,2024,322.0,26.7,20.7,32.9,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,2025,334.0,28.4,22.4,34.8,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,mean 2015-19,1966.0,24.0,19.8,28.2,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,mean 2022-25,1295.0,26.8,22.9,30.8,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre
+newcomer share of slots,strict 71-theatre panel | close-match names treated as previously observed,change (points),,2.8,-0.4,6.2,71,OBSERVED,previous four listed seasons (2020-22 gap skipped),theatre

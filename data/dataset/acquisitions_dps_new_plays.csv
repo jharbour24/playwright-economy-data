@@ -1,0 +1,19 @@
+catalogue,period,new_plays,index_entries,lead_authors,lead_authors_new_to_dps,new_author_share_pct,flag,label
+2008-09,before Broadway Licensing deal (Mar 2021),62.0,63.0,49.0,19.0,38.8,new-to-DPS baseline is the 2005-06 Complete Catalogue,OBSERVED
+2009-10,before Broadway Licensing deal (Mar 2021),79.0,83.0,59.0,17.0,28.8,,OBSERVED
+2010-11,before Broadway Licensing deal (Mar 2021),59.0,59.0,48.0,20.0,41.7,,OBSERVED
+2011-12,before Broadway Licensing deal (Mar 2021),58.0,57.0,47.0,11.0,23.4,,OBSERVED
+2012-13,before Broadway Licensing deal (Mar 2021),75.0,73.0,61.0,22.0,36.1,,OBSERVED
+2013-14,before Broadway Licensing deal (Mar 2021),70.0,69.0,60.0,28.0,46.7,,OBSERVED
+2014-15,before Broadway Licensing deal (Mar 2021),91.0,97.0,66.0,22.0,33.3,,OBSERVED
+2015-16,before Broadway Licensing deal (Mar 2021),86.0,93.0,67.0,18.0,26.9,roster format change: 'Our Playwrights' replaces 'Complete List of Authors' as the new-to-DPS baseline,OBSERVED
+2016-17,before Broadway Licensing deal (Mar 2021),102.0,109.0,82.0,28.0,34.1,,OBSERVED
+2017-18,before Broadway Licensing deal (Mar 2021),79.0,87.0,65.0,26.0,40.0,,OBSERVED
+2018-19,before Broadway Licensing deal (Mar 2021),,,,,,missing: no cached 2018-19 catalogue; 2019-20 new-to-DPS look-back spans two catalogues,OBSERVED
+2019-20,before Broadway Licensing deal (Mar 2021),76.0,80.0,52.0,24.0,46.2,,OBSERVED
+2020-21,before Broadway Licensing deal (Mar 2021),43.0,47.0,31.0,9.0,29.0,pandemic season: few productions to acquire from,OBSERVED
+2021-22,after,,,,,,no DPS new-play catalogue in the project after 2020-21 (post-deal years unobserved),OBSERVED
+2022-23,after,,,,,,no DPS new-play catalogue in the project after 2020-21 (post-deal years unobserved),OBSERVED
+2023-24,after,,,,,,no DPS new-play catalogue in the project after 2020-21 (post-deal years unobserved),OBSERVED
+2024-25,after,,,,,,no DPS new-play catalogue in the project after 2020-21 (post-deal years unobserved),OBSERVED
+2025-26,after,,,,,,no DPS new-play catalogue in the project after 2020-21 (post-deal years unobserved),OBSERVED
